@@ -20,129 +20,9 @@
         "maxPlayers": 6,
         "mods": [
             {
-                "modId": "6303360DA719E832",
-                "name": "WCS_AH-64D",
-                "version": "3.0.3"
-            },
-            {
                 "modId": "5F2D346C916B6FCC",
                 "name": "BLEEDING FROM WHERE DAMNIT",
                 "version": "1.0.1"
-            },
-            {
-                "modId": "64CB39E57377C861",
-                "name": "WCS_AH-1S",
-                "version": "3.0.1"
-            },
-            {
-                "modId": "631C3C1AEE9C90BC",
-                "name": "WCS_Sounds",
-                "version": "3.0.0"
-            },
-            {
-                "modId": "648EF4DF7B2F7D3A",
-                "name": "WCS_Weather",
-                "version": "3.0.3"
-            },
-            {
-                "modId": "63294BA2D9F0339B",
-                "name": "WCS_ZU-23-2",
-                "version": "3.0.2"
-            },
-            {
-                "modId": "648B595F6C72B4CB",
-                "name": "WCS_Settings",
-                "version": "3.0.0"
-            },
-            {
-                "modId": "61BA4EB5C886D396",
-                "name": "WCS_VehicleLock",
-                "version": "3.0.1"
-            },
-            {
-                "modId": "5EB744C5F42E0800",
-                "name": "ACE Chopping",
-                "version": "1.3.2"
-            },
-            {
-                "modId": "59673B6FBB95459F",
-                "name": "BetterTracers 2.0",
-                "version": "2.0.11"
-            },
-            {
-                "modId": "62784BC1C0AE5AB1",
-                "name": "Auto Kill Last AI",
-                "version": "1.0.2"
-            },
-            {
-                "modId": "61226BB18D360BDD",
-                "name": "ACE Tactical Ladder",
-                "version": "1.3.2"
-            },
-            {
-                "modId": "645F08FA9E7CDEDE",
-                "name": "Attachment Framework",
-                "version": "1.0.23"
-            },
-            {
-                "modId": "64F10E068D5880A6",
-                "name": "GM Tools",
-                "version": "2.1.14"
-            },
-            {
-                "modId": "646D53066E86C9F1",
-                "name": "RHIB4Conflict",
-                "version": "0.8.0"
-            },
-            {
-                "modId": "60EAEA0389DB3CC2",
-                "name": "ACE Trenches",
-                "version": "1.3.2"
-            },
-            {
-                "modId": "6198EC294DEC63C0",
-                "name": "Bacon Parachute",
-                "version": "1.2.6"
-            },
-            {
-                "modId": "659D565B15CCB24A",
-                "name": "WCS_AH-64D PS5 FIX",
-                "version": "1.0.4"
-            },
-            {
-                "modId": "6052A9DD45564825",
-                "name": "You can sit",
-                "version": "1.0.8"
-            },
-            {
-                "modId": "65CAC534FEE0E6B9",
-                "name": "ANZM Conflict Equipment",
-                "version": "0.0.7"
-            },
-            {
-                "modId": "64CD46D2FF22E6D2",
-                "name": "Misfits Gear Crye G4",
-                "version": "1.0.1"
-            },
-            {
-                "modId": "613B4DD4A91CA144",
-                "name": "LM Suppression",
-                "version": "1.3.0"
-            },
-            {
-                "modId": "628F720BC527C143",
-                "name": "Rayzis Optics",
-                "version": "1.1.95"
-            },
-            {
-                "modId": "61D57616CAFBB23D",
-                "name": "WCS_LoadoutEditor",
-                "version": "3.0.7"
-            },
-            {
-                "modId": "648B7DA77A4DA02C",
-                "name": "Aussies by Tonnie",
-                "version": "1.0.39"
             },
             {
                 "modId": "655CE38EC38BEFE2",
@@ -165,19 +45,9 @@
                 "version": "1.0.54"
             },
             {
-                "modId": "615CC2D870A39838",
-                "name": "WCS_Arsenal",
-                "version": "3.0.13"
-            },
-            {
                 "modId": "5AB890B71D748750",
                 "name": "M4 Block II and URG-I",
                 "version": "1.2.12"
-            },
-            {
-                "modId": "614C00DA7F8765F6",
-                "name": "WCS_SpawnProtection",
-                "version": "3.0.1"
             },
             {
                 "modId": "5B0D1E4380971EBD",
@@ -220,11 +90,6 @@
                 "version": "1.0.11"
             },
             {
-                "modId": "659AC928A8B08128",
-                "name": "WCS_AH-1S PS5 Fix",
-                "version": "1.0.15"
-            },
-            {
                 "modId": "64610AFB74AA9842",
                 "name": "WCS_Core",
                 "version": "3.0.41"
@@ -238,11 +103,6 @@
                 "modId": "655EE30F57F15220",
                 "name": "VKNG_Clothing",
                 "version": "0.3.2"
-            },
-            {
-                "modId": "62A668F513428630",
-                "name": "WCS_Scopes",
-                "version": "3.0.3"
             },
             {
                 "modId": "61DD377AE51CB4BD",
@@ -270,11 +130,6 @@
                 "version": "1.3.4"
             },
             {
-                "modId": "61A25BD1C99515B5",
-                "name": "WCS_Commands",
-                "version": "3.0.4"
-            },
-            {
                 "modId": "652A92756918269D",
                 "name": "Medicus Honorarius",
                 "version": "0.0.6"
@@ -288,16 +143,6 @@
                 "modId": "65CAC86AF34A0286",
                 "name": "ANZM Conflict Everon",
                 "version": "1.0.1"
-            },
-            {
-                "modId": "612F512CD4CB21D5",
-                "name": "WCS_Earplugs",
-                "version": "3.0.0"
-            },
-            {
-                "modId": "6508EDDEF93B2B29",
-                "name": "WCS_KA-52_Upgrade",
-                "version": "3.0.0"
             },
             {
                 "modId": "595F2BF2F44836FB",
@@ -330,11 +175,6 @@
                 "version": "0.0.36"
             },
             {
-                "modId": "615806DC6C57AF02",
-                "name": "WCS_NATO",
-                "version": "3.0.8"
-            },
-            {
                 "modId": "60C4C12DAE90727B",
                 "name": "ACE Medical",
                 "version": "1.3.2"
@@ -343,11 +183,6 @@
                 "modId": "5CA6BA2F63DE1174",
                 "name": "M17 Pistol",
                 "version": "1.0.16"
-            },
-            {
-                "modId": "617CBAD67DCDCBF8",
-                "name": "WCS_Rostov",
-                "version": "3.0.17"
             },
             {
                 "modId": "606C369BAC3F6CC3",
@@ -385,19 +220,9 @@
                 "version": "1.3.2"
             },
             {
-                "modId": "6326F0C7E748AB8A",
-                "name": "WCS_AH-64D_Upgrade",
-                "version": "3.0.0"
-            },
-            {
                 "modId": "597C0CF3A7AA8A99",
                 "name": "BetterSounds 3.6",
                 "version": "3.6.20"
-            },
-            {
-                "modId": "61C74A8B647617DA",
-                "name": "WCS_Attachments",
-                "version": "3.0.1"
             },
             {
                 "modId": "6214CEA5DA92BFF3",
@@ -440,19 +265,9 @@
                 "version": "1.0.10"
             },
             {
-                "modId": "615818DA7C0343FD",
-                "name": "WCS_RU",
-                "version": "3.0.10"
-            },
-            {
                 "modId": "5D915A9DC6EB0856",
                 "name": "Benelli M4",
                 "version": "1.0.29"
-            },
-            {
-                "modId": "615A80027C5C9170",
-                "name": "WCS_Vehicles",
-                "version": "3.0.12"
             },
             {
                 "modId": "5994AD5A9F33BE57",
@@ -468,16 +283,6 @@
                 "modId": "6490022D52E4EF89",
                 "name": "ASLAV by Tonnie",
                 "version": "1.0.4"
-            },
-            {
-                "modId": "6273146ADFE8241D",
-                "name": "WCS_AH6M",
-                "version": "3.0.0"
-            },
-            {
-                "modId": "629B2BA37EFFD577",
-                "name": "WCS_Armaments",
-                "version": "3.0.16"
             },
             {
                 "modId": "6484A81B74DB6C66",
@@ -505,11 +310,6 @@
                 "version": "1.4.1"
             },
             {
-                "modId": "64CB35D07BAEE60F",
-                "name": "WCS_KA-52",
-                "version": "3.0.3"
-            },
-            {
                 "modId": "59651354B2904BA6",
                 "name": "BetterHitsEffects 3.3",
                 "version": "3.3.0"
@@ -518,16 +318,6 @@
                 "modId": "65781C35D36A32FE",
                 "name": "EF88 By Tonnie",
                 "version": "0.0.10"
-            },
-            {
-                "modId": "614D1A3874A23AD9",
-                "name": "WCS_Interface",
-                "version": "3.0.4"
-            },
-            {
-                "modId": "628933A0D3A0D700",
-                "name": "WCS_Mi-24V",
-                "version": "3.0.3"
             },
             {
                 "modId": "645468B7696B4959",
@@ -560,19 +350,9 @@
                 "version": "1.0.12"
             },
             {
-                "modId": "6146FAED5AAD7C55",
-                "name": "WCS_Helicopters",
-                "version": "3.0.4"
-            },
-            {
                 "modId": "64EE818E08AFCF94",
                 "name": "MFD Framework",
                 "version": "0.3.1"
-            },
-            {
-                "modId": "61E42AE6714A3CC2",
-                "name": "WCS_Armbands",
-                "version": "3.0.1"
             },
             {
                 "modId": "5965550F24A0C152",
@@ -583,11 +363,6 @@
                 "modId": "619751237281AA7F",
                 "name": "ViperHood Mod",
                 "version": "1.0.8"
-            },
-            {
-                "modId": "6152CB0BD0684837",
-                "name": "WCS_Clothing",
-                "version": "3.0.0"
             },
             {
                 "modId": "65060E85032FD7E8",
