@@ -20,14 +20,59 @@
         "maxPlayers": 6,
         "mods": [
             {
-                "modId": "5F2D346C916B6FCC",
-                "name": "BLEEDING FROM WHERE DAMNIT",
+                "modId": "59673B6FBB95459F",
+                "name": "BetterTracers 2.0",
+                "version": "2.0.11"
+            },
+            {
+                "modId": "62784BC1C0AE5AB1",
+                "name": "Auto Kill Last AI",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "646D53066E86C9F1",
+                "name": "RHIB4Conflict",
+                "version": "0.8.0"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I",
+                "version": "1.2.0"
+            },
+            {
+                "modId": "6052A9DD45564825",
+                "name": "You can sit",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "64CD46D2FF22E6D2",
+                "name": "Misfits Gear Crye G4",
                 "version": "1.0.1"
             },
             {
-                "modId": "655CE38EC38BEFE2",
-                "name": "Harbin Z-9",
-                "version": "0.6.4"
+                "modId": "613B4DD4A91CA144",
+                "name": "LM Suppression",
+                "version": "1.3.0"
+            },
+            {
+                "modId": "628F720BC527C143",
+                "name": "Rayzis Optics",
+                "version": "1.1.95"
+            },
+            {
+                "modId": "5B3ED33ADA805340",
+                "name": "Task Force Mattock Weapons",
+                "version": "2.0.7"
+            },
+            {
+                "modId": "648B7DA77A4DA02C",
+                "name": "Aussies by Tonnie",
+                "version": "1.0.39"
+            },
+            {
+                "modId": "609E8CAD8A403EA6",
+                "name": "Map Marker Menu Fix",
+                "version": "1.0.2"
             },
             {
                 "modId": "652C421FF965A324",
@@ -50,9 +95,9 @@
                 "version": "1.2.12"
             },
             {
-                "modId": "5B0D1E4380971EBD",
-                "name": "COALITION Squad Interface",
-                "version": "1.6.21"
+                "modId": "65945C5198D621F4",
+                "name": "NoFatigue",
+                "version": "1.0.2"
             },
             {
                 "modId": "61B7763A8AEB53B7",
@@ -60,9 +105,19 @@
                 "version": "1.3.2"
             },
             {
+                "modId": "59B70A5A19E9B51E",
+                "name": "Vergys Custom Clothing",
+                "version": "0.1.29"
+            },
+            {
                 "modId": "5F253314CCC13FD4",
                 "name": "Ghost 9",
                 "version": "1.0.4"
+            },
+            {
+                "modId": "62DA1A8544458441",
+                "name": "Earplugs by flabby",
+                "version": "1.1.1"
             },
             {
                 "modId": "59A30ACC02650E71",
@@ -70,39 +125,14 @@
                 "version": "1.1.28"
             },
             {
-                "modId": "60B524F7A5AE96A8",
-                "name": "ArmaTerrainCore",
-                "version": "1.1.2"
-            },
-            {
-                "modId": "631E65A9A772533F",
-                "name": "Vernhyde Arms AUG",
-                "version": "1.0.0"
-            },
-            {
-                "modId": "616478A18DC7DCB6",
-                "name": "FN SCAR -HEAVY and LIGHT-",
-                "version": "1.6.7"
-            },
-            {
                 "modId": "6086E7EBC78E9039",
                 "name": "MCX SPEAR 6.8",
                 "version": "1.0.11"
             },
             {
-                "modId": "64610AFB74AA9842",
-                "name": "WCS_Core",
-                "version": "3.0.41"
-            },
-            {
-                "modId": "64E46D8F80F25413",
-                "name": "Cam Cream Faces",
-                "version": "1.0.2"
-            },
-            {
-                "modId": "655EE30F57F15220",
-                "name": "VKNG_Clothing",
-                "version": "0.3.2"
+                "modId": "6198EC294DEC63C0",
+                "name": "Bacon Parachute",
+                "version": "1.2.6"
             },
             {
                 "modId": "61DD377AE51CB4BD",
@@ -115,24 +145,9 @@
                 "version": "0.12.4494"
             },
             {
-                "modId": "650558D813911BEA",
-                "name": "CRYE by Tonnie",
-                "version": "1.0.5"
-            },
-            {
                 "modId": "5AB301290317994A",
                 "name": "Bacon Suppressors",
                 "version": "1.2.7"
-            },
-            {
-                "modId": "5C721177A220B42F",
-                "name": "Joint Light Tactical Vehicle",
-                "version": "1.3.4"
-            },
-            {
-                "modId": "652A92756918269D",
-                "name": "Medicus Honorarius",
-                "version": "0.0.6"
             },
             {
                 "modId": "BADC0DEDABBEDA5E",
@@ -140,9 +155,9 @@
                 "version": "0.12.4494"
             },
             {
-                "modId": "65CAC86AF34A0286",
-                "name": "ANZM Conflict Everon",
-                "version": "1.0.1"
+                "modId": "62CF33622B4DD3E0",
+                "name": "Modular Vest Pack",
+                "version": "1.0.29"
             },
             {
                 "modId": "595F2BF2F44836FB",
@@ -150,24 +165,9 @@
                 "version": "0.12.4494"
             },
             {
-                "modId": "62CCD69DD17E4F2F",
-                "name": "AKI CORE",
-                "version": "3.0.0"
-            },
-            {
                 "modId": "646D52AF8BB3FF15",
                 "name": "ACE Captives",
                 "version": "1.3.2"
-            },
-            {
-                "modId": "5D8D003BC5D829EC",
-                "name": "M2010 Enhanced Sniper Rifle",
-                "version": "1.0.9"
-            },
-            {
-                "modId": "5E389BB9F58B79A6",
-                "name": "SpaceCore",
-                "version": "1.3.9"
             },
             {
                 "modId": "5C9758250C8C56F1",
@@ -175,19 +175,14 @@
                 "version": "0.0.36"
             },
             {
-                "modId": "60C4C12DAE90727B",
-                "name": "ACE Medical",
-                "version": "1.3.2"
-            },
-            {
                 "modId": "5CA6BA2F63DE1174",
                 "name": "M17 Pistol",
                 "version": "1.0.16"
             },
             {
-                "modId": "606C369BAC3F6CC3",
-                "name": "ACE Finger",
-                "version": "1.3.2"
+                "modId": "59674C21AA886D57",
+                "name": "BetterMuzzleFlashes 2.2",
+                "version": "2.2.0"
             },
             {
                 "modId": "5994614FB5AD35C2",
@@ -195,24 +190,9 @@
                 "version": "1.0.19"
             },
             {
-                "modId": "6536AC0154DB5F88",
-                "name": "Dingos -  AUG",
-                "version": "1.0.14"
-            },
-            {
-                "modId": "61DAA7B4B5025363",
-                "name": "JSON",
-                "version": "1.0.5"
-            },
-            {
                 "modId": "611CB1D409001EB0",
                 "name": "ACE Magazine Repack",
                 "version": "1.3.2"
-            },
-            {
-                "modId": "61F0D506562D9BC9",
-                "name": "Outside Terrain Core",
-                "version": "1.1.0"
             },
             {
                 "modId": "5DBD560C5148E1DA",
@@ -220,24 +200,14 @@
                 "version": "1.3.2"
             },
             {
-                "modId": "597C0CF3A7AA8A99",
-                "name": "BetterSounds 3.6",
-                "version": "3.6.20"
-            },
-            {
-                "modId": "6214CEA5DA92BFF3",
-                "name": "ACE Medical Prototypes",
-                "version": "0.1.20"
-            },
-            {
-                "modId": "64FE925B9B979303",
-                "name": "Kiwis by Tonnie",
-                "version": "1.0.2"
-            },
-            {
                 "modId": "5E92F5A4A1B75A75",
                 "name": "Player Map Markers",
                 "version": "1.1.8"
+            },
+            {
+                "modId": "620C243361C6167F",
+                "name": "CivilianClothingInUSArsenal",
+                "version": "1.0.0"
             },
             {
                 "modId": "5AAAC70D754245DD",
@@ -245,49 +215,9 @@
                 "version": "1.2.3"
             },
             {
-                "modId": "64DF00492F1A04CD",
-                "name": "BMR Launcher Pack",
-                "version": "1.0.14"
-            },
-            {
-                "modId": "62CAEB00E5A7304A",
-                "name": "SWORD_International_Mk 18",
-                "version": "1.0.14"
-            },
-            {
-                "modId": "6276E6E3CC97A22B",
-                "name": "AUS_CORE",
-                "version": "0.1.11"
-            },
-            {
-                "modId": "5AF6E0F075D79473",
-                "name": "M249 Scope Rails",
-                "version": "1.0.10"
-            },
-            {
-                "modId": "5D915A9DC6EB0856",
-                "name": "Benelli M4",
-                "version": "1.0.29"
-            },
-            {
-                "modId": "5994AD5A9F33BE57",
-                "name": "Game Master FX",
-                "version": "1.0.106"
-            },
-            {
-                "modId": "5D0551624969C92E",
-                "name": "Zeliks Character",
-                "version": "1.1.19"
-            },
-            {
-                "modId": "6490022D52E4EF89",
-                "name": "ASLAV by Tonnie",
-                "version": "1.0.4"
-            },
-            {
-                "modId": "6484A81B74DB6C66",
-                "name": "Camouflage faces",
-                "version": "1.0.0"
+                "modId": "5D8D003BC5D829EC",
+                "name": "M2010 Enhanced Sniper Rifle",
+                "version": "1.0.9"
             },
             {
                 "modId": "62E7041E72E3AECB",
@@ -315,19 +245,19 @@
                 "version": "3.3.0"
             },
             {
-                "modId": "65781C35D36A32FE",
-                "name": "EF88 By Tonnie",
-                "version": "0.0.10"
+                "modId": "65DB2DD8303C1AE7",
+                "name": "CRS HK416",
+                "version": "0.0.1"
+            },
+            {
+                "modId": "5D457933C3941DBB",
+                "name": "MP5_MP5SD",
+                "version": "1.0.31"
             },
             {
                 "modId": "645468B7696B4959",
                 "name": "RHStoVanillaArsenals",
                 "version": "1.0.0"
-            },
-            {
-                "modId": "61EE9EB5FC81E884",
-                "name": "ANZAC Image Banner",
-                "version": "1.0.2"
             },
             {
                 "modId": "5CA125536EE7430A",
@@ -350,24 +280,9 @@
                 "version": "1.0.12"
             },
             {
-                "modId": "64EE818E08AFCF94",
-                "name": "MFD Framework",
-                "version": "0.3.1"
-            },
-            {
-                "modId": "5965550F24A0C152",
-                "name": "Where Am I",
-                "version": "1.2.0"
-            },
-            {
-                "modId": "619751237281AA7F",
-                "name": "ViperHood Mod",
-                "version": "1.0.8"
-            },
-            {
-                "modId": "65060E85032FD7E8",
-                "name": "DPCU Auscam",
-                "version": "1.0.3"
+                "modId": "5DEB113BCCC30EBC",
+                "name": "MAKO Virtus .300 Blackout",
+                "version": "1.0.11"
             }
         ],
         "name": "BishysBunny's",

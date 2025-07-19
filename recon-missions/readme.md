@@ -1,4 +1,4 @@
-# Reacon Missions
+# Recon Missions
 
 ## Scenario
 
