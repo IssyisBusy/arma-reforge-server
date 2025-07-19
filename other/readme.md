@@ -1,9 +1,8 @@
 # Other Stuff for Arma Games
 
 ## Dayz 🧟
----
 
-## Turn of Mouse accel in Dayz 
+### Turn of Mouse accel in Dayz 
 
 Find Dayz Config File, usally here`` C:\Users\<USERNAME>\Documents\DayZ``
 
