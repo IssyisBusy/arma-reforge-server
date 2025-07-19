@@ -17,7 +17,7 @@
             "serverMaxViewDistance": 5000,
             "serverMinGrassDistance": 50
         },
-        "maxPlayers": 8,
+        "maxPlayers": 6,
         "mods": [
             {
                 "modId": "6303360DA719E832",
