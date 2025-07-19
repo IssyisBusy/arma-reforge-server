@@ -1,0 +1,609 @@
+{
+    "a2s": {
+        "address": "0.0.0.0",
+        "port": 27004
+    },
+    "bindAddress": "0.0.0.0",
+    "bindPort": 27000,
+    "game": {
+        "crossPlatform": true,
+        "gameProperties": {
+            "VONDisableDirectSpeechUI": false,
+            "VONDisableUI": false,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "fastValidation": true,
+            "networkViewDistance": 800,
+            "serverMaxViewDistance": 5000,
+            "serverMinGrassDistance": 50
+        },
+        "maxPlayers": 8,
+        "mods": [
+            {
+                "modId": "6303360DA719E832",
+                "name": "WCS_AH-64D",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "5F2D346C916B6FCC",
+                "name": "BLEEDING FROM WHERE DAMNIT",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "64CB39E57377C861",
+                "name": "WCS_AH-1S",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "631C3C1AEE9C90BC",
+                "name": "WCS_Sounds",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "648EF4DF7B2F7D3A",
+                "name": "WCS_Weather",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "63294BA2D9F0339B",
+                "name": "WCS_ZU-23-2",
+                "version": "3.0.2"
+            },
+            {
+                "modId": "648B595F6C72B4CB",
+                "name": "WCS_Settings",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "61BA4EB5C886D396",
+                "name": "WCS_VehicleLock",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "5EB744C5F42E0800",
+                "name": "ACE Chopping",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "59673B6FBB95459F",
+                "name": "BetterTracers 2.0",
+                "version": "2.0.11"
+            },
+            {
+                "modId": "62784BC1C0AE5AB1",
+                "name": "Auto Kill Last AI",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "61226BB18D360BDD",
+                "name": "ACE Tactical Ladder",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "645F08FA9E7CDEDE",
+                "name": "Attachment Framework",
+                "version": "1.0.23"
+            },
+            {
+                "modId": "64F10E068D5880A6",
+                "name": "GM Tools",
+                "version": "2.1.14"
+            },
+            {
+                "modId": "646D53066E86C9F1",
+                "name": "RHIB4Conflict",
+                "version": "0.8.0"
+            },
+            {
+                "modId": "60EAEA0389DB3CC2",
+                "name": "ACE Trenches",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "6198EC294DEC63C0",
+                "name": "Bacon Parachute",
+                "version": "1.2.6"
+            },
+            {
+                "modId": "659D565B15CCB24A",
+                "name": "WCS_AH-64D PS5 FIX",
+                "version": "1.0.4"
+            },
+            {
+                "modId": "6052A9DD45564825",
+                "name": "You can sit",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "65CAC534FEE0E6B9",
+                "name": "ANZM Conflict Equipment",
+                "version": "0.0.7"
+            },
+            {
+                "modId": "64CD46D2FF22E6D2",
+                "name": "Misfits Gear Crye G4",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "613B4DD4A91CA144",
+                "name": "LM Suppression",
+                "version": "1.3.0"
+            },
+            {
+                "modId": "628F720BC527C143",
+                "name": "Rayzis Optics",
+                "version": "1.1.95"
+            },
+            {
+                "modId": "61D57616CAFBB23D",
+                "name": "WCS_LoadoutEditor",
+                "version": "3.0.7"
+            },
+            {
+                "modId": "648B7DA77A4DA02C",
+                "name": "Aussies by Tonnie",
+                "version": "1.0.39"
+            },
+            {
+                "modId": "655CE38EC38BEFE2",
+                "name": "Harbin Z-9",
+                "version": "0.6.4"
+            },
+            {
+                "modId": "652C421FF965A324",
+                "name": "Misfits Squad Backpacks",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "606B100247F5C709",
+                "name": "Bacon Loadout Editor",
+                "version": "1.2.44"
+            },
+            {
+                "modId": "5DF14A2FD0C42CC0",
+                "name": "MAKO AK 105 Zentico",
+                "version": "1.0.54"
+            },
+            {
+                "modId": "615CC2D870A39838",
+                "name": "WCS_Arsenal",
+                "version": "3.0.13"
+            },
+            {
+                "modId": "5AB890B71D748750",
+                "name": "M4 Block II and URG-I",
+                "version": "1.2.12"
+            },
+            {
+                "modId": "614C00DA7F8765F6",
+                "name": "WCS_SpawnProtection",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "5B0D1E4380971EBD",
+                "name": "COALITION Squad Interface",
+                "version": "1.6.21"
+            },
+            {
+                "modId": "61B7763A8AEB53B7",
+                "name": "ACE Explosives",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5F253314CCC13FD4",
+                "name": "Ghost 9",
+                "version": "1.0.4"
+            },
+            {
+                "modId": "59A30ACC02650E71",
+                "name": "Night Vision System",
+                "version": "1.1.28"
+            },
+            {
+                "modId": "60B524F7A5AE96A8",
+                "name": "ArmaTerrainCore",
+                "version": "1.1.2"
+            },
+            {
+                "modId": "631E65A9A772533F",
+                "name": "Vernhyde Arms AUG",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "616478A18DC7DCB6",
+                "name": "FN SCAR -HEAVY and LIGHT-",
+                "version": "1.6.7"
+            },
+            {
+                "modId": "6086E7EBC78E9039",
+                "name": "MCX SPEAR 6.8",
+                "version": "1.0.11"
+            },
+            {
+                "modId": "659AC928A8B08128",
+                "name": "WCS_AH-1S PS5 Fix",
+                "version": "1.0.15"
+            },
+            {
+                "modId": "64610AFB74AA9842",
+                "name": "WCS_Core",
+                "version": "3.0.41"
+            },
+            {
+                "modId": "64E46D8F80F25413",
+                "name": "Cam Cream Faces",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "655EE30F57F15220",
+                "name": "VKNG_Clothing",
+                "version": "0.3.2"
+            },
+            {
+                "modId": "62A668F513428630",
+                "name": "WCS_Scopes",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "61DD377AE51CB4BD",
+                "name": "Misfits Squad Ghillie Suits",
+                "version": "1.0.12"
+            },
+            {
+                "modId": "1337C0DE5DABBEEF",
+                "name": "RHS - Content Pack 01",
+                "version": "0.12.4494"
+            },
+            {
+                "modId": "650558D813911BEA",
+                "name": "CRYE by Tonnie",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "5AB301290317994A",
+                "name": "Bacon Suppressors",
+                "version": "1.2.7"
+            },
+            {
+                "modId": "5C721177A220B42F",
+                "name": "Joint Light Tactical Vehicle",
+                "version": "1.3.4"
+            },
+            {
+                "modId": "61A25BD1C99515B5",
+                "name": "WCS_Commands",
+                "version": "3.0.4"
+            },
+            {
+                "modId": "652A92756918269D",
+                "name": "Medicus Honorarius",
+                "version": "0.0.6"
+            },
+            {
+                "modId": "BADC0DEDABBEDA5E",
+                "name": "RHS - Content Pack 02",
+                "version": "0.12.4494"
+            },
+            {
+                "modId": "65CAC86AF34A0286",
+                "name": "ANZM Conflict Everon",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "612F512CD4CB21D5",
+                "name": "WCS_Earplugs",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "6508EDDEF93B2B29",
+                "name": "WCS_KA-52_Upgrade",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "595F2BF2F44836FB",
+                "name": "RHS - Status Quo",
+                "version": "0.12.4494"
+            },
+            {
+                "modId": "62CCD69DD17E4F2F",
+                "name": "AKI CORE",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "646D52AF8BB3FF15",
+                "name": "ACE Captives",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5D8D003BC5D829EC",
+                "name": "M2010 Enhanced Sniper Rifle",
+                "version": "1.0.9"
+            },
+            {
+                "modId": "5E389BB9F58B79A6",
+                "name": "SpaceCore",
+                "version": "1.3.9"
+            },
+            {
+                "modId": "5C9758250C8C56F1",
+                "name": "Bon Action Animations",
+                "version": "0.0.36"
+            },
+            {
+                "modId": "615806DC6C57AF02",
+                "name": "WCS_NATO",
+                "version": "3.0.8"
+            },
+            {
+                "modId": "60C4C12DAE90727B",
+                "name": "ACE Medical",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5CA6BA2F63DE1174",
+                "name": "M17 Pistol",
+                "version": "1.0.16"
+            },
+            {
+                "modId": "617CBAD67DCDCBF8",
+                "name": "WCS_Rostov",
+                "version": "3.0.17"
+            },
+            {
+                "modId": "606C369BAC3F6CC3",
+                "name": "ACE Finger",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5994614FB5AD35C2",
+                "name": "RHIB",
+                "version": "1.0.19"
+            },
+            {
+                "modId": "6536AC0154DB5F88",
+                "name": "Dingos -  AUG",
+                "version": "1.0.14"
+            },
+            {
+                "modId": "61DAA7B4B5025363",
+                "name": "JSON",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "611CB1D409001EB0",
+                "name": "ACE Magazine Repack",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "61F0D506562D9BC9",
+                "name": "Outside Terrain Core",
+                "version": "1.1.0"
+            },
+            {
+                "modId": "5DBD560C5148E1DA",
+                "name": "ACE Carrying",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "6326F0C7E748AB8A",
+                "name": "WCS_AH-64D_Upgrade",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "597C0CF3A7AA8A99",
+                "name": "BetterSounds 3.6",
+                "version": "3.6.20"
+            },
+            {
+                "modId": "61C74A8B647617DA",
+                "name": "WCS_Attachments",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "6214CEA5DA92BFF3",
+                "name": "ACE Medical Prototypes",
+                "version": "0.1.20"
+            },
+            {
+                "modId": "64FE925B9B979303",
+                "name": "Kiwis by Tonnie",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "5E92F5A4A1B75A75",
+                "name": "Player Map Markers",
+                "version": "1.1.8"
+            },
+            {
+                "modId": "5AAAC70D754245DD",
+                "name": "Server Admin Tools",
+                "version": "1.2.3"
+            },
+            {
+                "modId": "64DF00492F1A04CD",
+                "name": "BMR Launcher Pack",
+                "version": "1.0.14"
+            },
+            {
+                "modId": "62CAEB00E5A7304A",
+                "name": "SWORD_International_Mk 18",
+                "version": "1.0.14"
+            },
+            {
+                "modId": "6276E6E3CC97A22B",
+                "name": "AUS_CORE",
+                "version": "0.1.11"
+            },
+            {
+                "modId": "5AF6E0F075D79473",
+                "name": "M249 Scope Rails",
+                "version": "1.0.10"
+            },
+            {
+                "modId": "615818DA7C0343FD",
+                "name": "WCS_RU",
+                "version": "3.0.10"
+            },
+            {
+                "modId": "5D915A9DC6EB0856",
+                "name": "Benelli M4",
+                "version": "1.0.29"
+            },
+            {
+                "modId": "615A80027C5C9170",
+                "name": "WCS_Vehicles",
+                "version": "3.0.12"
+            },
+            {
+                "modId": "5994AD5A9F33BE57",
+                "name": "Game Master FX",
+                "version": "1.0.106"
+            },
+            {
+                "modId": "5D0551624969C92E",
+                "name": "Zeliks Character",
+                "version": "1.1.19"
+            },
+            {
+                "modId": "6490022D52E4EF89",
+                "name": "ASLAV by Tonnie",
+                "version": "1.0.4"
+            },
+            {
+                "modId": "6273146ADFE8241D",
+                "name": "WCS_AH6M",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "629B2BA37EFFD577",
+                "name": "WCS_Armaments",
+                "version": "3.0.16"
+            },
+            {
+                "modId": "6484A81B74DB6C66",
+                "name": "Camouflage faces",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "62E7041E72E3AECB",
+                "name": "Arma Recon Missions Evron",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "60C53A9372ED3964",
+                "name": "ACE Compass",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "60C4CE4888FF4621",
+                "name": "ACE Core",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "62FCEB51DF8527B6",
+                "name": "Improved Blood Effect",
+                "version": "1.4.1"
+            },
+            {
+                "modId": "64CB35D07BAEE60F",
+                "name": "WCS_KA-52",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "59651354B2904BA6",
+                "name": "BetterHitsEffects 3.3",
+                "version": "3.3.0"
+            },
+            {
+                "modId": "65781C35D36A32FE",
+                "name": "EF88 By Tonnie",
+                "version": "0.0.10"
+            },
+            {
+                "modId": "614D1A3874A23AD9",
+                "name": "WCS_Interface",
+                "version": "3.0.4"
+            },
+            {
+                "modId": "628933A0D3A0D700",
+                "name": "WCS_Mi-24V",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "645468B7696B4959",
+                "name": "RHStoVanillaArsenals",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "61EE9EB5FC81E884",
+                "name": "ANZAC Image Banner",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "5CA125536EE7430A",
+                "name": "M110 DMR",
+                "version": "1.0.27"
+            },
+            {
+                "modId": "652D6536CF2D78C1",
+                "name": "Misfits Clothing",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "5ABD0CB57F7E9EB1",
+                "name": "RIS Laser Attachments",
+                "version": "1.0.81"
+            },
+            {
+                "modId": "60620915CACA0ED1",
+                "name": "MCX LT_ MCX LVAW _ .300blk",
+                "version": "1.0.12"
+            },
+            {
+                "modId": "6146FAED5AAD7C55",
+                "name": "WCS_Helicopters",
+                "version": "3.0.4"
+            },
+            {
+                "modId": "64EE818E08AFCF94",
+                "name": "MFD Framework",
+                "version": "0.3.1"
+            },
+            {
+                "modId": "61E42AE6714A3CC2",
+                "name": "WCS_Armbands",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I",
+                "version": "1.2.0"
+            },
+            {
+                "modId": "619751237281AA7F",
+                "name": "ViperHood Mod",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "6152CB0BD0684837",
+                "name": "WCS_Clothing",
+                "version": "3.0.0"
+            },
+            {
+                "modId": "65060E85032FD7E8",
+                "name": "DPCU Auscam",
+                "version": "1.0.3"
+            }
+        ],
+        "name": "BishysBunny's",
+        "password": "Taipan101",
+        "passwordAdmin": "TrustNo1",
+        "scenarioId": "{4751A5838DA2753B}Missions/Matics_Survival.conf",
+        "visible": true
+    },
+    "operating": {
+        "disableServerShutdown": true
+    },
+    "publicAddress": "103.187.104.72",
+    "publicPort": 27000
+}
