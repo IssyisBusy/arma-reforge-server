@@ -1,0 +1,149 @@
+{
+    "a2s": {
+        "address": "0.0.0.0",
+        "port": 27004
+    },
+    "bindAddress": "0.0.0.0",
+    "bindPort": 27000,
+    "game": {
+        "crossPlatform": true,
+        "gameProperties": {
+            "VONDisableDirectSpeechUI": false,
+            "VONDisableUI": false,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "fastValidation": true,
+            "networkViewDistance": 800,
+            "serverMaxViewDistance": 5000,
+            "serverMinGrassDistance": 50
+        },
+        "maxPlayers": 6,
+        "mods": [
+            {
+                "modId": "5A7B79D8A910A4D1",
+                "name": "Enhanced Weapon Immersion 2.6",
+                "version": "2.6.26"
+            },
+            {
+                "modId": "597C0CF3A7AA8A99",
+                "name": "BetterSounds 3.6",
+                "version": "3.6.20"
+            },
+            {
+                "modId": "59673B6FBB95459F",
+                "name": "BetterTracers 2.0",
+                "version": "2.0.11"
+            },
+            {
+                "modId": "62784BC1C0AE5AB1",
+                "name": "Auto Kill Last AI",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "609E8CAD8A403EA6",
+                "name": "Map Marker Menu Fix",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "606B100247F5C709",
+                "name": "Bacon Loadout Editor",
+                "version": "1.2.44"
+            },
+            {
+                "modId": "5B0D1E4380971EBD",
+                "name": "COALITION Squad Interface",
+                "version": "1.6.21"
+            },
+            {
+                "modId": "65945C5198D621F4",
+                "name": "NoFatigue",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "62DA1A8544458441",
+                "name": "Earplugs by flabby",
+                "version": "1.1.1"
+            },
+            {
+                "modId": "59A30ACC02650E71",
+                "name": "Night Vision System",
+                "version": "1.1.28"
+            },
+            {
+                "modId": "5AB301290317994A",
+                "name": "Bacon Suppressors",
+                "version": "1.2.7"
+            },
+            {
+                "modId": "628CE5DB45EFC569",
+                "name": "REAPER_Exemption",
+                "version": "1.0.21"
+            },
+            {
+                "modId": "5AC2954C784671B3",
+                "name": "Barrett M82",
+                "version": "1.2.3"
+            },
+            {
+                "modId": "59674C21AA886D57",
+                "name": "BetterMuzzleFlashes 2.2",
+                "version": "2.2.0"
+            },
+            {
+                "modId": "5E92F5A4A1B75A75",
+                "name": "Player Map Markers",
+                "version": "1.1.8"
+            },
+            {
+                "modId": "620C243361C6167F",
+                "name": "CivilianClothingInUSArsenal",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "62CAEB00E5A7304A",
+                "name": "SWORD_International_Mk 18",
+                "version": "1.0.14"
+            },
+            {
+                "modId": "6484A81B74DB6C66",
+                "name": "Camouflage faces",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "5C9758250C8C56F1",
+                "name": "Bon Action Animations",
+                "version": "0.0.36"
+            },
+            {
+                "modId": "62FCEB51DF8527B6",
+                "name": "Improved Blood Effect",
+                "version": "1.4.1"
+            },
+            {
+                "modId": "59651354B2904BA6",
+                "name": "BetterHitsEffects 3.3",
+                "version": "3.3.0"
+            },
+            {
+                "modId": "5ABD0CB57F7E9EB1",
+                "name": "RIS Laser Attachments",
+                "version": "1.0.81"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I",
+                "version": "1.2.0"
+            }
+        ],
+        "name": "BishysBunny's",
+        "password": "Taipan101",
+        "passwordAdmin": "TrustNo1",
+        "scenarioId": "{4751A5838DA2753B}Missions/Matics_Survival.conf",
+        "visible": true
+    },
+    "operating": {
+        "disableServerShutdown": true
+    },
+    "publicAddress": "103.187.104.72",
+    "publicPort": 27000
+}
